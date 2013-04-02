@@ -1,4 +1,9 @@
 bitsnberri.es
 =============
 
-badass site
+Badass site.
+
+- Responsive Design
+- Using Sass
+- Blog Integration
+- Other cool stuff
